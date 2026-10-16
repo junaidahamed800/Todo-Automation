@@ -4,7 +4,7 @@ Application: https://todomvc.com/examples/typescript-react/#/
 
 ## Add
 
-1. Open the site, submit an empty input, then add four distinct todos one at a time. Verify all four appear and the counter says **4 items left**.
+1. Open the site with an empty list. Leave the input blank and press Enter; verify that no todo is added. Then add four distinct todos one at a time; verify all four appear and the counter says **4 items left**.
 2. Open the site, add a todo, then add another todo with the exact same text. Verify both entries appear separately and are included in the counter.
 
 ## Edit
